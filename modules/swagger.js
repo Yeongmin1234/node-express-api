@@ -17,7 +17,7 @@ const options = {
         // basePath: "/",
         servers: [
             {
-                url: "http://192.168.0.90:3000",
+                url: "http://0.0.0.0:3000",
             },
         ],
     },

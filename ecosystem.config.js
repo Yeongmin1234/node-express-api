@@ -2,7 +2,7 @@ module.exports = {
     apps: [{
         watch: true,
         name: 'index',
-        script: './app.js',
+        script: './bin/www',
         description: 'node-express',
         version: '1.0.0',
         namespace: 'mynamespace',
